@@ -1,10 +1,8 @@
 # TimaAli-Website
 **Application name:**
-
 TimaAli-Website
 
 **Names of contributors:**
-
 Tima M Ali
 
 **Description of the project's purpose:**
