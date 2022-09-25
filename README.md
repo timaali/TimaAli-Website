@@ -11,9 +11,9 @@ __The Website provides a brief introduction of myself, my career path, the proje
 
 ## **LANGUAGES USED:**
 
-__This project is written in:
+This project is written in:
 1. HTML 
-2. CSS__
+2. CSS
 
  ## **PROJECT SETUP INSTRUCTIONS:** 
 Clone this repo to your desktop and begin your developing!
