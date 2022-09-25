@@ -1,5 +1,5 @@
 # TimaAli-Website
-## **PROJECT NAME:**
+### **PROJECT NAME:**
 __TimaAli-Website__
 
 ## **NAMES OF CONTRIBUTORS:**
