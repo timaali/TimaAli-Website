@@ -15,11 +15,11 @@ __This project is written in:
 1. HTML 
 2. CSS
 
- ## **PROJECT SETUP INSTRUCTIONS:** - 
- 
- 
- 
- ## **LINK TO THE SITE: **
+ ## **PROJECT SETUP INSTRUCTIONS:** 
+Clone this repo to your desktop and begin your developing!
+
+
+ ## **LINK TO THE SITE:**
  
  
  ## **COPYRIGHT AND LICENSE INFORMATION:**
