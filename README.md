@@ -1,15 +1,23 @@
 # TimaAli-Website
-**Application name:**
+**PROJECT NAME:**
 _TimaAli-Website_
 
-**Names of contributors:**
+**NAMES OF CONTRIBUTORS:**
 _Tima M Ali_
 
-**Description of the project's purpose:**
+**DESCRIPTION OF PROJECT PURPOSE:**
 
 _The Website provides a brief introduction of myself, my career path, the projects I've worked on, my hobbies & interests and my career ambitions. This site sits as my online portfolio._
 
-**Languages used:**
+**LANGUAGES USED:**
 
 _This project is written in html and CSS languages_
+
+ **PROJECT SETUP INSTRUCTIONS:** - 
+ 
+ 
+ 
+ **LINK TO THE SITE: **
+ 
+ **COPYRIGHT AND LICENSE INFORMATION:**
 
