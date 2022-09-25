@@ -24,5 +24,5 @@ __This project is written in:
  
  ## **COPYRIGHT AND LICENSE INFORMATION:**
  This project is licensed using the MIT lincense.
- To view the license click 
+ You can checkout the full license [here](https://github.com/timaali/TimaAli-Website/blob/master/LICENSE.md)
 
