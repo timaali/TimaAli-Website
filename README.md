@@ -13,7 +13,7 @@ __The Website provides a brief introduction of myself, my career path, the proje
 
 __This project is written in:
 1. HTML 
-2. CSS
+2. CSS__
 
  ## **PROJECT SETUP INSTRUCTIONS:** 
 Clone this repo to your desktop and begin your developing!
